@@ -2,9 +2,8 @@
 There is a shop in the land of Faerune that is across from the most majestic theater in town called "Gimbal's Theater" 
 It's a cozy shop in a fantasy world. Lets explore data analytics together. 
 
-
 About This Project
- Exploring the idea of a magical theater, a cozy shop and catalogue of magical creatures all in one space.
+Exploring the idea of a magical theater, a cozy shop and catalog of magical creatures all in one space. It's a slow practice project that im doing publicly. (I'm trying not to rely heavily on ai for this project.)  (╥ ᴗ ╥)
 
 Project Goals
 🕯️ Create a cozy, atmospheric magical shop.
@@ -19,4 +18,4 @@ Project Goals
 
 🧹 Learn to build and maintain the project through small, understandable steps.
 
-Lore 
+ 
